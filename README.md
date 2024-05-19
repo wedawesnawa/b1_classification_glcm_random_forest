@@ -9,9 +9,9 @@ file main.py adalah file websitenya,
 
 dataset(3s).zip adalah datasetnya
 
-![Screenshot 2024-05-19 104503](https://github.com/wedawesnawa/b1_classification_glcm_random_forest/assets/54709755/ce604923-53b7-493a-8cf9-d2d4b1d9d5a2)# b1_classification_glcm_random_forest
 
-![Uploading Screenshot 2024-05-19 104503.png…![Screenshot 2024-05-19 104431](https://github.com/wedawesnawa/b1_classification_glcm_random_forest/assets/54709755/f6d745c2-ae1a-4420-900c-0faa01499b57)
+Untuk link demo websitenya ada disini: https://youtu.be/94DSx6lNR_4?si=yuGLoJcXNpGcKQnw
+
 
 ![Screenshot 2024-05-19 104333](https://github.com/wedawesnawa/b1_classification_glcm_random_forest/assets/54709755/705852bc-a267-4856-a5b5-3c85984a27e7)
 
@@ -21,4 +21,4 @@ dataset(3s).zip adalah datasetnya
 ![Screenshot 2024-05-19 104648](https://github.com/wedawesnawa/b1_classification_glcm_random_forest/assets/54709755/c154fa7a-b6bc-42f2-83cc-131767e96c1a)
 
 ![Screenshot 2024-05-19 104549](https://github.com/wedawesnawa/b1_classification_glcm_random_forest/assets/54709755/096fce24-f6c5-448b-951b-68d3f5f2c211)
-]()
+
