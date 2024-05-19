@@ -1,16 +1,9 @@
+Gituhub ini merupakan hasil penelitian mengenai klasifikasi wajah dalam tiga kategori, yaitu senang, sedih, dan marah dengan metode ekstraksi fitur GLCM dan machine learning Random Forest.
 
-penelitian tentang klasifikasi ekspresi wajah ke dalam tiga kategori: senang, sedih, dan marah menggunakan metode GLCM dan Random Forest.
+Terdapat beberapa file, yaitu file klasifikasi_ekspresi.py merupakan file training dan testing model, file main.py adalah file website yang menggunakan streamlit dan bootsrtap, dan file datasets(3s).zip merupakan dataset yang digunakan.
 
-
-file klasifikasi_ekspresi.py adalah training dan testing model, 
-
-file main.py adalah file websitenya, 
-
-
-dataset(3s).zip adalah datasetnya
-
-
-Untuk link demo websitenya ada disini: https://youtu.be/94DSx6lNR_4?si=yuGLoJcXNpGcKQnw
+Link mengenai demo website dan penjelasan lainnya dapat diakses pada link berikut: 
+https://youtu.be/94DSx6lNR_4?si=yuGLoJcXNpGcKQnw 
 
 
 ![Screenshot 2024-05-19 104333](https://github.com/wedawesnawa/b1_classification_glcm_random_forest/assets/54709755/705852bc-a267-4856-a5b5-3c85984a27e7)
